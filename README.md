@@ -8,6 +8,7 @@
 
 ![ascii_apa.png](ascii_apa.png)
 
+Reference: https://github.com/anuraghazra/github-readme-stats
 
 &hide=stars,commits,prs,issues,contribs
 &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
