@@ -2,7 +2,7 @@
 
 ```mermaid
 graph LR;
-A[ ]-- Coffe -->C{Engineer};
+A[ ]-- Coffee -->C{Engineer};
 B[ ]-- Problems -->C{Engineer};
 C{Engineer}-->E[Sarcasm];
 C{Engineer}-->D[Solutions as biproduct];
