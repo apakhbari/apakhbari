@@ -5,7 +5,7 @@ graph LR;
 A[ ]-- Coffee -->C{Engineer};
 B[ ]-- Problems -->C{Engineer};
 C{Engineer}-->E[Sarcasm];
-C{Engineer}-->D[Solutions as biproduct];
+C{Engineer}-->D[Solutions As Biproduct];
 ```
 
 <!--
