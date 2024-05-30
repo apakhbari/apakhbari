@@ -2,10 +2,10 @@
 
 ```mermaid
 graph LR;
-A[ ]-- Coffee -->C{Engineer};
-B[ ]-- Problems -->C{Engineer};
-C{Engineer}-->E[Sarcasm];
-C{Engineer}-->D[Solutions As Biproduct];
+A> ]-- Coffee -->C{Engineer};
+B> ]-- Problems -->C{Engineer};
+C{Engineer}-->E[(Sarcasm)];
+C{Engineer}-->D{{Solutions As Biproduct}};
 ```
 
 <!--
