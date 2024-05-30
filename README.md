@@ -1,11 +1,11 @@
 **Live Long & Prosper 🖖🏽**
 
-```
-flowchart LR
-    [*]-- Coffe --> A{Engineer}
-    [*]-- Problems --> A{Engineer}
-    A{Engineer} -----> Sarcasm
-    A{Engineer} -----> Solutions (as biproduct)
+```mermaid
+flowchart LR;
+[*]-- Coffe --> A{Engineer};
+[*]-- Problems --> A{Engineer};
+A{Engineer} -----> Sarcasm;
+A{Engineer} -----> Solutions (as biproduct);
 ```
 
 <!--
